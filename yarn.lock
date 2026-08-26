@@ -2241,8 +2241,8 @@ __metadata:
   linkType: hard
 
 "h3@npm:^1.15.4":
-  version: 1.15.5
-  resolution: "h3@npm:1.15.5"
+  version: 1.15.9
+  resolution: "h3@npm:1.15.9"
   dependencies:
     cookie-es: ^1.2.2
     crossws: ^0.3.5
@@ -2253,7 +2253,7 @@ __metadata:
     radix3: ^1.1.2
     ufo: ^1.6.3
     uncrypto: ^0.1.3
-  checksum: 455f58681de2b789b39af45067db8dde35234c18d86ec5068687300aae3c0225f85edcd110906493e087407e2caaa1f292352769c484284e72558d7677c29899
+  checksum: 64c34bfc089722151cd1077e621a53a4077329432a431989705fbfc542453cf4d0804f9cf2d42ed4bd5c57f970bf7ee8374e8ced5811e782f172110baa086266
   languageName: node
   linkType: hard
 
@@ -3825,20 +3825,13 @@ __metadata:
   linkType: hard
 
 "picomatch@npm:^2.0.4":
-  version: 2.3.1
-  resolution: "picomatch@npm:2.3.1"
-  checksum: 050c865ce81119c4822c45d3c84f1ced46f93a0126febae20737bd05ca20589c564d6e9226977df859ed5e03dc73f02584a2b0faad36e896936238238b0446cf
+  version: 2.3.2
+  resolution: "picomatch@npm:2.3.2"
+  checksum: 0a3f5b9ff28faf022e1429b66e47c122e19e7b31cbd098095d29e949684e7ff1d9b83a2133d931326a53ec6ec11c7c59b1850c27fde2f26ca1d5f35861e9701a
   languageName: node
   linkType: hard
 
-"picomatch@npm:^4.0.2":
-  version: 4.0.2
-  resolution: "picomatch@npm:4.0.2"
-  checksum: a7a5188c954f82c6585720e9143297ccd0e35ad8072231608086ca950bee672d51b0ef676254af0788205e59bd4e4deb4e7708769226bed725bf13370a7d1464
-  languageName: node
-  linkType: hard
-
-"picomatch@npm:^4.0.3":
+"picomatch@npm:^4.0.2, picomatch@npm:^4.0.3":
   version: 4.0.3
   resolution: "picomatch@npm:4.0.3"
   checksum: 6817fb74eb745a71445debe1029768de55fd59a42b75606f478ee1d0dc1aa6e78b711d041a7c9d5550e042642029b7f373dc1a43b224c4b7f12d23436735dba0
@@ -4462,17 +4455,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"smol-toml@npm:^1.3.1":
-  version: 1.3.4
-  resolution: "smol-toml@npm:1.3.4"
-  checksum: ddf333c69b6c848ce6bc89b85096ad8d89cf885cdbf8ca9c5c753df0f5b4a70e3c1984d13e033d68b89a2fff0d984a7f71eb0d3a1c087e934aeda3be71e81d3c
-  languageName: node
-  linkType: hard
-
-"smol-toml@npm:^1.4.2, smol-toml@npm:^1.5.2":
-  version: 1.5.2
-  resolution: "smol-toml@npm:1.5.2"
-  checksum: 75b7e8482151cbe48be094de205631502d5694c2a7d968446799e8b988b4105bd6efd3b6a986baa40d9e9b47cbb2daada21a302901a618793aabd35a670f195e
+"smol-toml@npm:^1.3.1, smol-toml@npm:^1.4.2, smol-toml@npm:^1.5.2":
+  version: 1.6.1
+  resolution: "smol-toml@npm:1.6.1"
+  checksum: bb5fce0c0369426ae8ae71ba91b5754423037dce8a2907d659ba4e45f5d7af1baabf7efea8ddb46ce681737be77a3795163f06ce4d7d3953f10cf6533194ffdb
   languageName: node
   linkType: hard
 

@@ -79,7 +79,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["remark-rehype", "npm:11.1.2"],\
             ["remark-smartypants", "npm:3.0.2"],\
             ["shiki", "npm:3.3.0"],\
-            ["smol-toml", "npm:1.3.4"],\
+            ["smol-toml", "npm:1.6.1"],\
             ["unified", "npm:11.0.5"],\
             ["unist-util-remove-position", "npm:5.0.0"],\
             ["unist-util-visit", "npm:5.0.0"],\
@@ -107,7 +107,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["remark-rehype", "npm:11.1.2"],\
             ["remark-smartypants", "npm:3.0.2"],\
             ["shiki", "npm:3.19.0"],\
-            ["smol-toml", "npm:1.5.2"],\
+            ["smol-toml", "npm:1.6.1"],\
             ["unified", "npm:11.0.5"],\
             ["unist-util-remove-position", "npm:5.0.0"],\
             ["unist-util-visit", "npm:5.0.0"],\
@@ -839,7 +839,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/estree", "npm:1.0.7"],\
             ["@types/rollup", null],\
             ["estree-walker", "npm:2.0.2"],\
-            ["picomatch", "npm:4.0.2"],\
+            ["picomatch", "npm:4.0.3"],\
             ["rollup", null]\
           ],\
           "packagePeers": [\
@@ -1462,7 +1462,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["anymatch", "npm:3.1.3"],\
             ["normalize-path", "npm:3.0.0"],\
-            ["picomatch", "npm:2.3.1"]\
+            ["picomatch", "npm:2.3.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1554,7 +1554,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["semver", "npm:7.7.3"],\
             ["sharp", "npm:0.34.5"],\
             ["shiki", "npm:3.19.0"],\
-            ["smol-toml", "npm:1.5.2"],\
+            ["smol-toml", "npm:1.6.1"],\
             ["svgo", "npm:4.0.1"],\
             ["tinyexec", "npm:1.0.2"],\
             ["tinyglobby", "npm:0.2.15"],\
@@ -2474,7 +2474,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["fdir", "virtual:13dba315b30721812929c770ddde019c62f0f5aaf3d322e194cc0bf6cf728a558519bedd52ec8aab338ba88d51755f53d336e981f79120c140fd5c81616eeabd#npm:6.4.4"],\
             ["@types/picomatch", null],\
-            ["picomatch", "npm:4.0.2"]\
+            ["picomatch", "npm:4.0.3"]\
           ],\
           "packagePeers": [\
             "@types/picomatch",\
@@ -2595,10 +2595,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["h3", [\
-        ["npm:1.15.5", {\
-          "packageLocation": "./.yarn/cache/h3-npm-1.15.5-676ab956f4-455f58681d.zip/node_modules/h3/",\
+        ["npm:1.15.9", {\
+          "packageLocation": "./.yarn/cache/h3-npm-1.15.9-262d8b98ae-64c34bfc08.zip/node_modules/h3/",\
           "packageDependencies": [\
-            ["h3", "npm:1.15.5"],\
+            ["h3", "npm:1.15.9"],\
             ["cookie-es", "npm:1.2.2"],\
             ["crossws", "npm:0.3.5"],\
             ["defu", "npm:6.1.6"],\
@@ -4337,17 +4337,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["picomatch", [\
-        ["npm:2.3.1", {\
-          "packageLocation": "./.yarn/cache/picomatch-npm-2.3.1-c782cfd986-050c865ce8.zip/node_modules/picomatch/",\
+        ["npm:2.3.2", {\
+          "packageLocation": "./.yarn/cache/picomatch-npm-2.3.2-4d85543a37-0a3f5b9ff2.zip/node_modules/picomatch/",\
           "packageDependencies": [\
-            ["picomatch", "npm:2.3.1"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:4.0.2", {\
-          "packageLocation": "./.yarn/cache/picomatch-npm-4.0.2-e93516ddf2-a7a5188c95.zip/node_modules/picomatch/",\
-          "packageDependencies": [\
-            ["picomatch", "npm:4.0.2"]\
+            ["picomatch", "npm:2.3.2"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -4928,17 +4921,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["smol-toml", [\
-        ["npm:1.3.4", {\
-          "packageLocation": "./.yarn/cache/smol-toml-npm-1.3.4-78c02ab477-ddf333c69b.zip/node_modules/smol-toml/",\
+        ["npm:1.6.1", {\
+          "packageLocation": "./.yarn/cache/smol-toml-npm-1.6.1-17dfda1d34-bb5fce0c03.zip/node_modules/smol-toml/",\
           "packageDependencies": [\
-            ["smol-toml", "npm:1.3.4"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:1.5.2", {\
-          "packageLocation": "./.yarn/cache/smol-toml-npm-1.5.2-bb8115e3b2-75b7e84821.zip/node_modules/smol-toml/",\
-          "packageDependencies": [\
-            ["smol-toml", "npm:1.5.2"]\
+            ["smol-toml", "npm:1.6.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5147,7 +5133,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["tinyglobby", "npm:0.2.13"],\
             ["fdir", "virtual:13dba315b30721812929c770ddde019c62f0f5aaf3d322e194cc0bf6cf728a558519bedd52ec8aab338ba88d51755f53d336e981f79120c140fd5c81616eeabd#npm:6.4.4"],\
-            ["picomatch", "npm:4.0.2"]\
+            ["picomatch", "npm:4.0.3"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -5497,7 +5483,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chokidar", "npm:4.0.3"],\
             ["db0", null],\
             ["destr", "npm:2.0.5"],\
-            ["h3", "npm:1.15.5"],\
+            ["h3", "npm:1.15.9"],\
             ["idb-keyval", null],\
             ["ioredis", null],\
             ["lru-cache", "npm:10.4.3"],\
@@ -5611,7 +5597,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jiti", null],\
             ["less", null],\
             ["lightningcss", null],\
-            ["picomatch", "npm:4.0.2"],\
+            ["picomatch", "npm:4.0.3"],\
             ["postcss", "npm:8.5.3"],\
             ["rollup", "npm:4.59.0"],\
             ["sass", null],\
