@@ -1599,17 +1599,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
-"defu@npm:^6.1.6":
-  version: 6.1.7
-  resolution: "defu@npm:6.1.7"
-  checksum: aeca3fc4a1e9f5a99c8b2cd3efa478dbbda1b344e3facfbe750e8b10d8ec48ede08560108f58363e9b8b8687d9ccb68faf0ba24833e267a0f1c0518c89fdabfe
-=======
 "defu@npm:^6.1.4":
   version: 6.1.6
   resolution: "defu@npm:6.1.6"
   checksum: 639367cc678f08a919c46b86368e981db005745df91f726ba69b035f61d5a3ce150f716f71527821b8252a518586c6bda09a816b68efb0df842b2ebdf3e45e82
->>>>>>> origin/main
   languageName: node
   linkType: hard
 
@@ -2141,15 +2134,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
-"h3@npm:^1.15.10":
-  version: 1.15.11
-  resolution: "h3@npm:1.15.11"
-=======
 "h3@npm:^1.15.4":
   version: 1.15.9
   resolution: "h3@npm:1.15.9"
->>>>>>> origin/main
   dependencies:
     cookie-es: ^1.2.3
     crossws: ^0.3.5
@@ -2160,11 +2147,7 @@ __metadata:
     radix3: ^1.1.2
     ufo: ^1.6.3
     uncrypto: ^0.1.3
-<<<<<<< HEAD
-  checksum: 303a55b053f895f00a3d16181430b876ceca5d02e4344d484203a0dbc80faa24cb934a5f21a1421657e76a04954a10ef5eb0dd2a910db2d744385f5961dd95ce
-=======
   checksum: 64c34bfc089722151cd1077e621a53a4077329432a431989705fbfc542453cf4d0804f9cf2d42ed4bd5c57f970bf7ee8374e8ced5811e782f172110baa086266
->>>>>>> origin/main
   languageName: node
   linkType: hard
 
@@ -4370,18 +4353,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
-"smol-toml@npm:^1.3.1":
-  version: 1.3.4
-  resolution: "smol-toml@npm:1.3.4"
-  checksum: ddf333c69b6c848ce6bc89b85096ad8d89cf885cdbf8ca9c5c753df0f5b4a70e3c1984d13e033d68b89a2fff0d984a7f71eb0d3a1c087e934aeda3be71e81d3c
-  languageName: node
-  linkType: hard
-
-"smol-toml@npm:^1.6.0":
-=======
 "smol-toml@npm:^1.3.1, smol-toml@npm:^1.4.2, smol-toml@npm:^1.5.2":
->>>>>>> origin/main
   version: 1.6.1
   resolution: "smol-toml@npm:1.6.1"
   checksum: bb5fce0c0369426ae8ae71ba91b5754423037dce8a2907d659ba4e45f5d7af1baabf7efea8ddb46ce681737be77a3795163f06ce4d7d3953f10cf6533194ffdb
@@ -4900,15 +4872,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
-"vite@npm:^7.3.2":
-  version: 7.3.3
-  resolution: "vite@npm:7.3.3"
-=======
 "vite@npm:^6.4.1":
   version: 6.4.2
   resolution: "vite@npm:6.4.2"
->>>>>>> origin/main
   dependencies:
     esbuild: ^0.27.0
     fdir: ^6.5.0
@@ -4957,11 +4923,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-<<<<<<< HEAD
-  checksum: 165883481b7a3a0fe043b99f1bdf6af300905a33fe363e5168d70456dcfb4b14ddd4804d52b9bc8d97f334f617853d97e193fac70c0bdd9c1cb6ea1a8186e7a0
-=======
   checksum: f0b57b675aaa8a61b03f5e53c0f58ec4c7e77705adae5a8086e3ab8664bf763fb77332a8309a9dad092267bdedc5e583b28c72fc950a2ddce119ac1574181bf5
->>>>>>> origin/main
   languageName: node
   linkType: hard
 
